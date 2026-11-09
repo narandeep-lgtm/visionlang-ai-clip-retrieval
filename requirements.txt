@@ -1,0 +1,8 @@
+# Use Google Colab's current PyTorch install where possible.
+numpy>=1.26,<3
+pillow>=10,<13
+torch>=2.2
+transformers>=4.50,<6
+datasets>=3,<6
+matplotlib>=3.8
+pandas>=2.1
